@@ -1,0 +1,5 @@
+{
+  "logLevel": "trace",
+  "type": "web",
+  "nodeRpcUrl": "http://seed1.ngd.network:10332"
+}
